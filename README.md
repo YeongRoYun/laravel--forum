@@ -1,2 +1,2 @@
-# laravel--forum
-라라벨 학습: 포럼 사이트 제작
+# Laravel-Forum
+> Forum 서비스 만들기
